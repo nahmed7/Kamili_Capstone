@@ -83,6 +83,7 @@ ggplot(data, aes(x=Group, y=GBS_CFU))+
   labs(y="GBS Burden (CFU/mL)", title="GBS Burden in FRT of Wild-type and Galectin-8 KO Mice")
 
 ```
+![Task8plot.pdf](https://github.com/nahmed7/Kamili_Capstone/files/4541631/Task8plot.pdf)
 
 ## 9. Sample Size:
 
