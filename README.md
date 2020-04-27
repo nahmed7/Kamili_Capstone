@@ -67,7 +67,7 @@ data <- tibble(WT=abs(rnorm(n, mean_WT, sd_WT)),
 
 data
 ```
-
+<img width="306" alt="Screen Shot 2020-04-27 at 3 22 43 PM" src="https://user-images.githubusercontent.com/64428885/80412120-55433e00-889b-11ea-9634-a08b4aca9715.png">
 
 ```{r}
 ggplot(data, aes(x=Group, y=GBS_CFU))+
