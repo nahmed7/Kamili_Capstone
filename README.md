@@ -152,4 +152,4 @@ hist(p, col = "blue", ylim = c(0, 1000), xlim = c(0.0, 1.0), main ="Histogram of
 ```
 <img width="714" alt="Screen Shot 2020-04-27 at 3 39 54 PM" src="https://user-images.githubusercontent.com/64428885/80413458-80c72800-889d-11ea-949a-df798b1f63d9.png">
 
-<img width="714" alt="Screen Shot 2020-04-27 at 3 39 54 PM" src="https://user-images.githubusercontent.com/64428885/80413458-80c72800-889d-11ea-949a-df798b1f63d9.png">
+<img width="693" alt="Screen Shot 2020-04-27 at 3 43 23 PM" src="https://user-images.githubusercontent.com/64428885/80413703-e0253800-889d-11ea-870b-f03431fec87f.png">
