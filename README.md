@@ -67,7 +67,7 @@ data <- tibble(WT=abs(rnorm(n, mean_WT, sd_WT)),
 
 data
 ```
-[INSERT]
+
 
 ```{r}
 ggplot(data, aes(x=Group, y=GBS_CFU))+
