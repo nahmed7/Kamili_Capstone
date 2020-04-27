@@ -1,11 +1,4 @@
-```
-library(tidyverse)
-library(pwr)
-library(treemapify)
-library(ggformula)
-library(lsr)
-library(DescTools)
-```
+
 ## 1. Significance: 
 
 Many microbes evade host immunity by expressing host antigens on the surface, a phenomenon known as molecular mimicry. For example, Groub B Streptococcus (GBS), the leading cause of neonatal meningitis and sepsis, expresses a heavily sialylated outer capsule. Sialic acid is an immune-inhibitory antigen abundantly expressed on mammalian cells that serves to inhibit immune activation upon binding, thereby protecting from autoimmunity. GBS is known to exploit this mechanism to render the mammalian immune system inert. Recent studies indicate that while sialylation-mediated immune inhibition by GBS holds true for adaptive immune cells, an innate immune lectin known as Galectin-8 (Gal-8) compromises GBS viability in vitro. However, it is not known whether Gal-8 likewise plays a role physiologically in the immune response against GBS. 
